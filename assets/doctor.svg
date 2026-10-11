@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 380" role="img" aria-label="Illustration of a doctor">
+  <!-- backdrop -->
+  <rect width="320" height="380" rx="22" fill="#E7EDF6"/>
+  <circle cx="160" cy="150" r="118" fill="#DCE5F2"/>
+
+  <!-- coat / shoulders -->
+  <path d="M30 380 C34 300 70 268 124 256 L196 256 C250 268 286 300 290 380 Z" fill="#FFFFFF" stroke="#C7D2DF" stroke-width="2"/>
+  <!-- shirt (V) -->
+  <path d="M124 256 L160 330 L196 256 Z" fill="#2B4C9B"/>
+  <!-- collar points -->
+  <path d="M124 256 L146 262 L160 296 Z" fill="#3A5DB0"/>
+  <path d="M196 256 L174 262 L160 296 Z" fill="#3A5DB0"/>
+  <!-- lapels -->
+  <path d="M118 258 L160 352 L136 352 L100 272 Z" fill="#F3F6FA" stroke="#C7D2DF" stroke-width="2"/>
+  <path d="M202 258 L160 352 L184 352 L220 272 Z" fill="#F3F6FA" stroke="#C7D2DF" stroke-width="2"/>
+
+  <!-- neck -->
+  <path d="M138 214 L138 256 Q160 272 182 256 L182 214 Z" fill="#A9694A"/>
+  <path d="M138 232 Q160 246 182 232 L182 214 L138 214 Z" fill="#8E553A"/>
+
+  <!-- ears -->
+  <ellipse cx="103" cy="160" rx="11" ry="17" fill="#B4724F"/>
+  <ellipse cx="217" cy="160" rx="11" ry="17" fill="#B4724F"/>
+  <!-- head -->
+  <ellipse cx="160" cy="158" rx="58" ry="70" fill="#BD7B57"/>
+  <!-- hair -->
+  <path d="M101 168 C92 96 128 74 164 76 C204 78 226 104 220 152 C214 128 202 114 184 108 C160 120 128 118 112 112 C104 124 102 136 100 150 Z" fill="#2B1F1B"/>
+
+  <!-- eyebrows -->
+  <path d="M126 136 Q138 130 150 135" stroke="#2B1F1B" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M170 135 Q182 130 194 136" stroke="#2B1F1B" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- eyes -->
+  <ellipse cx="139" cy="152" rx="4.5" ry="5" fill="#2B1F1B"/>
+  <ellipse cx="181" cy="152" rx="4.5" ry="5" fill="#2B1F1B"/>
+  <!-- glasses -->
+  <g fill="none" stroke="#1B2A3A" stroke-width="3">
+    <rect x="120" y="138" width="36" height="28" rx="11"/>
+    <rect x="164" y="138" width="36" height="28" rx="11"/>
+    <path d="M156 150 Q160 146 164 150"/>
+    <path d="M120 148 L106 144"/>
+    <path d="M200 148 L214 144"/>
+  </g>
+  <!-- nose -->
+  <path d="M160 160 Q156 178 162 182" stroke="#93553A" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- smile -->
+  <path d="M140 196 Q160 210 180 196" stroke="#6E3626" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- stethoscope -->
+  <g fill="none" stroke="#33475B" stroke-width="6" stroke-linecap="round">
+    <path d="M128 252 C116 290 120 318 146 330"/>
+    <path d="M192 252 C206 284 210 300 206 318"/>
+  </g>
+  <circle cx="206" cy="326" r="13" fill="#9AA9B8" stroke="#33475B" stroke-width="4"/>
+  <circle cx="206" cy="326" r="5" fill="#E7EDF6"/>
+
+  <!-- pocket + ballpoint pen -->
+  <rect x="226" y="306" width="10" height="34" rx="3" fill="#2B4C9B"/>
+  <rect x="227" y="300" width="8" height="10" rx="2" fill="#1E3772"/>
+  <path d="M214 322 L254 322 L254 358 L214 358 Z" fill="#F3F6FA" stroke="#C7D2DF" stroke-width="2"/>
+</svg>

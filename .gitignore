@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Local environment and generated files
+.venv/
+__pycache__/
+*.pyc
+index/
+test_results.json
+.DS_Store
+
+# Guideline PDFs (copyrighted; see guidelines/README.md for where to download them)
+guidelines/**/*.pdf

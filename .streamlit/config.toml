@@ -1,0 +1,16 @@
+[theme]
+base = "light"
+primaryColor = "#2B4C9B"
+backgroundColor = "#F6F8FA"
+secondaryBackgroundColor = "#EEF2F7"
+textColor = "#1B2A3A"
+font = "Public Sans:https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700&display=swap, sans-serif"
+headingFont = "Source Serif 4:https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap, serif"
+
+[client]
+toolbarMode = "minimal"
+
+[server]
+# The file watcher scans every imported module (torch/transformers) and floods the log with
+# harmless import errors. Restart the app after editing code.
+fileWatcherType = "none"
